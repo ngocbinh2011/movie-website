@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-9.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/lib/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/classes/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/demo_war/WEB-INF/lib/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/demo_war/WEB-INF/lib/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.52/webapps/examples/jsp/plugin/applet" />
+    </SOURCES>
+  </library>
+</component>
