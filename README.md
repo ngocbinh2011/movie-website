@@ -4,4 +4,4 @@ It build in some layers as repository, service, controller. For example, When Co
 It make application structure become easy for manage and maintain. 
 You can watch demo for this website on: https://www.youtube.com/watch?v=UQZMm3hNKZ8
 
-Thanks you for visiting!
+Thank you for visiting!
